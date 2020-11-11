@@ -1,5 +1,5 @@
 # Golf_stats
-![portada](https://github.com/jvazquezgalvezlp/Golf_stats/blob/main/images/portada.jpg)
+![portada](https://github.com/jvazquezgalvezlp/Golf_stats/blob/main/images/portada2.jpg)
 # Data set description 
 
 pgaTourData.csv contains 1674 rows and 18 columns. Each row indicates a golfer's performance for that year.
