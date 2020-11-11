@@ -24,4 +24,4 @@ pgaTourData.csv contains 1674 rows and 18 columns. Each row indicates a golfer's
 
 # Purpose of project
 
-I want to get top 25 pro golfers in each separate type of shot withing the game (Driving, approaching, chipping and putting) for years 2017 and 2018, make a new column that will rank them, and compare that ranking to next year´s lowest scoring averages, that will be obtained from the pgatour/stats web.
+I want to get the top pro golfers in each separate type of shot withing the game (Driving, approaching, chipping and putting) for years 2017 and 2018, and make a new predictive column that will rank them. This new column will try to guess next year´s top golfers by lowest scoring average, which I will compare whith the real positional ranking of the following year in order to compare if I was able to guess the top 20 golfers for betting puposes. The real ranking will be obtained from the PGATour website, because my dataset does not have any data that has to do whith the 2019 golf season.
